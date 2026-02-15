@@ -1,5 +1,4 @@
-# CodeLingua-AI
-
+Lingofy
 An AI-Powered Adaptive Coding Learning Platform
 
 ## Hackathon Submission
